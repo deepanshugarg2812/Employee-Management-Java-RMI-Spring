@@ -2,7 +2,7 @@
 
 ##Technologies used
 
--: Java (1.8)
--: Spring (Base framework + Spring jdbc)
--: Rmi (Remote method invocation)
--: Database Mysql
+1. Java (1.8)
+2. Spring (Base framework + Spring jdbc)
+3. Rmi (Remote method invocation)
+4. Database Mysql
